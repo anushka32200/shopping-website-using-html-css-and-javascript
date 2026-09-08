@@ -24,3 +24,7 @@ This is a responsive website project created using HTML, CSS and JavaScript.
 
 ## Author
 Anushka
+
+https://anushopping.netlify.app
+
+
